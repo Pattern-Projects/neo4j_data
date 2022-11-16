@@ -1,8 +1,13 @@
-Match (n:)
-delete n
+Match (n)
+delete n;
 
 LOAD CSV WITH HEADERS FROM
 'https://raw.githubusercontent.com/Pattern-Projects/neo4j_data/main/products.csv'
 AS line
-CREATE (:Product {productNumber: toInteger(line.productNumber), brand: line.brand, deviceType: line.deviceType, version: line.version})
+CREATE (:Product {productNumber: toInteger(line.productNumber), brand: line.brand, deviceType: line.deviceType, version: line.version});
+
+LOAD CSV WITH HEADERS FROM
+'https://raw.githubusercontent.com/Pattern-Projects/neo4j_data/main/users.csv'
+AS line
+CREATE (:User {userNumber: toInteger(line.userNumber), firstName: line.firstName, lastName: line.lastName, email: line.email});
 

@@ -1,3 +1,3 @@
-userID,firstName,lastName,address,email
+userNumber,firstName,lastName,address,email
 1,John,O'Sullivan,Athlone,john@athlone.ie
 2,Sue,Jones,Belfast,sj@bel.com
