@@ -1,0 +1,8 @@
+Match (n:)
+delete n
+
+LOAD CSV WITH HEADERS FROM
+'https://raw.githubusercontent.com/Pattern-Projects/neo4j_data/main/products.csv'
+AS line
+CREATE (:Product {productNumber: toInteger(line.productNumber), brand: line.brand, deviceType: line.deviceType, version: line.version})
+
