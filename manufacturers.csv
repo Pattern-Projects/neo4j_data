@@ -1,5 +1,8 @@
 manufacturerNumber,brand,address,contact,ceo,owner,founder,parentCompany
 1,Amazon,"Seattle, Washington and Arlington, Virginia, United States",555-17452,,Jeff Bezos,,
-2,Google,"Menlo Park, California, United States",555-19864,Sundar Pichai,,,
-3,Ring,"Santa Monica, California, United States",555-12458,,,Jamie Siminoff,1
-4,Philips,"Amsterdam, Netherlands",77624411,,,Gerard and Anton Philips,
+2,Alphabet,"Googleplex, Mountain View, California, United States",555-19865,Sundar Pichai,,Larry Page & Sergey Brin,
+3,AWS,"Seattle, Washington, United States",555-17453,Adam Selipsky,,,1
+4,Google,"Menlo Park, California, United States",555-19864,Sundar Pichai,,Larry Page & Sergey Brin,2
+5,Ring,"Santa Monica, California, United States",555-12458,,,Jamie Siminoff,1
+6,Philips,"Amsterdam, Netherlands",77624411,,,Gerard and Anton Philips,
+7,Nest,"Palo Alto, California, United States",555-78126,Tony Fadell,,Tony Fadell & Matt Rogers,3

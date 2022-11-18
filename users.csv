@@ -1,3 +1,13 @@
 userNumber,firstName,lastName,address,email
-1,John,O'Sullivan,Athlone,john@athlone.ie
-2,Sue,Jones,Belfast,sj@bel.com
+1,Alan,Turing,Athlone,a.t@enigma.gov
+2,Barbara,Liskov,"Los Angeles, California, United States",bl@stanford.us
+3,Charles,Babbage,"Marylebone, London, United Kingdom",c.abbage@math.co.uk
+4,"Augusta, Ada",King,"Marylebone, London, United Kingdom",ada@lovelace.co.uk
+5,Steven,Wozniak,"San Jose, California, United States",steve@woz.org
+6,Margaret,Hamilton,"Paoli, Indiana, United States",m.h@mit.com
+7,Donald,Knuth,"Milwaukee, Wisconsin, United States",knuth@mh.us
+8,Sophie,Wilson,"Leeds, United Kingdom",sw@leeds.co.uk
+9,Kimberly,Bryant,"Memphis, Tennessee, United States",KB@gbc.us
+10,John,Carmack,"Shawnee Mission, Kansas, United States",jc@id.us
+11,Kathleen,Booth,"Stourbridge, United Kingdom",KB@arc.co.uk
+12,Adi,Shamir,"Tel Aviv-Yafo, Israel",as@math.il

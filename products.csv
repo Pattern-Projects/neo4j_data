@@ -3,11 +3,11 @@ productNumber,manufacturerNumber,range,deviceType,version,generation
 2,1,Amazon Echo,Voice controller,,2
 3,1,Amazon Echo,Echo Spot Smart Alarm Clock,,2
 4,1,Amazon Echo,Dot Voice controller,,1
-5,1,AWS,Programmable Dash Button,12.10.1,
-6,2,Nest Protect,Protect,,
-7,2,Nest Home,Thermostat,,3
-8,2,Nest Cam,Indoor camera,,2
-9,2,Nest Cam,Outdoor camera,,2
-10,3,Ring Pro,Smart Video Doorbell,2.0.1,2
-11,3,Ring,Smart Video Doorbell,2.0.0,2
-12,4,Philips Hue,Hue Go,10.4.1,
+5,3,AWS,Programmable Dash Button,12.10.1,
+6,7,Nest Protect,Protect,,
+7,7,Nest Home,Thermostat,,3
+8,7,Nest Cam,Indoor camera,,2
+9,7,Nest Cam,Outdoor camera,,2
+10,5,Ring Pro,Smart Video Doorbell,2.0.1,2
+11,5,Ring,Smart Video Doorbell,2.0.0,2
+12,6,Philips Hue,Hue Go,10.4.1,
