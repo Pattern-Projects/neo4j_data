@@ -1,10 +1,13 @@
-productNumber,brand,range,deviceType,version
-1,Nest,Nest Protect,Protect,2.0.1
-2,Nest,,Thermostat,2.0.0
-3,Google,Google Home,Voice controller,1.0.0
-4,Amazon,Amazon Echo,Voice controller,2.10.3
-5,Nest,Nest,Indoor camera,1.0.1
-6,Mr. Coffee,,Smart Coffeemaker,1.1.1
-7,SmartMat,,Intelligent Yoga Mat,1.1.1
-8,Philips,Philips Hue,Hue Go,10.4.1
-9,Amazon,Amazon Echo,Echo Spot Smart Alarm Clock,12.10.1
+productNumber,manufacturerNumber,range,deviceType,version,generation
+1,1,Amazon Echo,Voice controller,,1
+2,1,Amazon Echo,Voice controller,,2
+3,1,Amazon Echo,Echo Spot Smart Alarm Clock,,2
+4,1,Amazon Echo,Dot Voice controller,,1
+5,1,AWS,Programmable Dash Button,12.10.1,
+6,2,Nest Protect,Protect,,
+7,2,Nest Home,Thermostat,,3
+8,2,Nest Cam,Indoor camera,,2
+9,2,Nest Cam,Outdoor camera,,2
+10,3,Ring Pro,Smart Video Doorbell,2.0.1,2
+11,3,Ring,Smart Video Doorbell,2.0.0,2
+12,4,Philips Hue,Hue Go,10.4.1,

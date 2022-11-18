@@ -1,3 +1,3 @@
-serialNumber,Name,location,registeredTo,productNumber,active,batteryPercentage
+serialNumber,name,location,registeredTo,productNumber,active,batteryPercentage
 1,John's Smoke Alarm,Hallway (downstairs),1,1,TRUE,90
 2,Sue's Smoke Alarm,First floor bathroom,2,1,TRUE,45
