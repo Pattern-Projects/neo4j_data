@@ -38,9 +38,9 @@ serialNumber,name,location,registeredTo,productNumber,active,batteryPercentage,r
 37,Voice Controller,Main Bedroom,10,3,TRUE,38,,,
 38,Alexa Device,Study,9,2,TRUE,52,,,
 39,Reorder TP,Bathroom,2,5,TRUE,66,Andrex ,16pc,
-40,Reorder Shampoo,Bathroom,2,5,TRUE,66,Loriel,1,
+40,Reorder Shampoo,Bathroom,2,5,TRUE,66,Loriel,1 btl,
 41,Lighting Bridge,Sitting Room - Behind Shelves,1,13,TRUE,50,,,
-42,Lighting Bridge,Main Bedroom ,1,12,TRUE,,,41,
-43,Mood Lighting  - Hallway,Hallway,1,12,TRUE,,,41,
-44,Mood Lighting - Small Bedroom,Small Bedroom,1,12,TRUE,,,41,
-45,My Hue Lighting,Front Room,2,12,TRUE,,,14,
+42,Lighting Bridge,Main Bedroom ,1,12,TRUE,,,,41
+43,Mood Lighting  - Hallway,Hallway,1,12,TRUE,,,,41
+44,Mood Lighting - Small Bedroom,Small Bedroom,1,12,TRUE,,,,41
+45,My Hue Lighting,Front Room,2,12,TRUE,,,,14
