@@ -11,7 +11,7 @@ serialNumber,name,location,registeredTo,productNumber,active,batteryPercentage,r
 10,Ring,Door,10,11,TRUE,31,,,
 11,Thermostat,Beside Chimney,5,7,TRUE,38,,,
 12,Reorder Washing Powder,Laundry,12,5,TRUE,66,Daz,1Kg,
-13,Mood Lighting,Sitting Room,1,12,FALSE,45,,,41
+13,Mood Lighting - Sitting Room,Sitting Room,1,12,TRUE,,,,41
 14,Alexa Dot,Landing,2,4,TRUE,31,,,
 15,Smoke Alarm - Mine,Lobby,3,6,TRUE,59,,,
 16,Order more catfood,Kitchen,4,5,TRUE,66,Whiskas,20pc,
@@ -30,7 +30,7 @@ serialNumber,name,location,registeredTo,productNumber,active,batteryPercentage,r
 29,Ring,Door,12,11,TRUE,31,,,
 30,Thermostat,Beside Chimney,1,7,TRUE,38,,,
 31,Reorder Washing Powder Tabs,Laundry,2,5,TRUE,66,Liquitabs,30pc,
-32,Mood Lighting,Sitting Room,3,12,FALSE,0,,,
+32,Lighting,Sitting Room,3,12,FALSE,,,,
 33,Alexa Dot,Landing,4,4,TRUE,31,,,
 34,Smoke Alarm - Mine,Lobby,1,6,TRUE,59,,,
 35,All the cheeses,Kitchen,2,5,TRUE,66,Cheese Platter,10pc,
@@ -40,3 +40,7 @@ serialNumber,name,location,registeredTo,productNumber,active,batteryPercentage,r
 39,Reorder TP,Bathroom,2,5,TRUE,66,Andrex ,16pc,
 40,Reorder Shampoo,Bathroom,2,5,TRUE,66,Loriel,1,
 41,Lighting Bridge,Sitting Room - Behind Shelves,1,13,TRUE,50,,,
+42,Lighting Bridge,Main Bedroom ,1,12,TRUE,,,41,
+43,Mood Lighting  - Hallway,Hallway,1,12,TRUE,,,41,
+44,Mood Lighting - Small Bedroom,Small Bedroom,1,12,TRUE,,,41,
+45,My Hue Lighting,Front Room,2,12,TRUE,,,14,
